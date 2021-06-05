@@ -1,1 +1,5 @@
-const user = 'Aramayis Sargsyan';
+const user = {
+    fnmae: 'Arthur',
+    lname: 'Gyulabyan',
+    age: 22,
+};
