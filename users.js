@@ -1,5 +1,5 @@
 const user = {
-    fnmae: 'Arthur',
-    lname: 'Gyulabyan',
-    age: 22,
+    fnmae: 'Elon',
+    lname: 'Musk',
+    age: 40,
 };
