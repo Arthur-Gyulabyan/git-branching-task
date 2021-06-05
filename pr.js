@@ -23,8 +23,7 @@ const obj = {
         aaa: {
             lll: 'asd',
             jjj: 12,
-        }
-
+        },
     },
 
     age: 20,

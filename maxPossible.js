@@ -2,10 +2,10 @@ const maxPossible = (num1, num2) => {
     // Turn number to array of digits.
     const [numArr1, numArr2] = [
         String(num1).split('').map(Number),
-        String(num2).split('').map(Number)
+        String(num2).split('').map(Number),
     ];
 
-    const result = numArr1.map(digit => {
+    const result = numArr1.map((digit) => {
         // Find the max digit and its index from numArr2.
         const max = Math.max(...numArr2);
         const indexOfMax = numArr2.indexOf(max);
