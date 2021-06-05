@@ -1,1 +1,5 @@
-const user = 'Aramayis Sargsyan';
+const user = {
+    fname: 'Elon',
+    lname: 'Musk',
+    age: 49,
+};
